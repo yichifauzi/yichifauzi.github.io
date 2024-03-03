@@ -4,8 +4,6 @@ Hi! i am Yi Chi Fauzi
 Yi Chi Fauzi**
 ===========================
 
-![Yi Chi Fauzi](https://github.com/yichifauzi/DBOP/blob/main/DBOP%20logo.png?raw=true)
-
 ##### About Me
 
 ###### Yi Chi Fauzi
@@ -19,9 +17,3 @@ Website built by me: [Minecraft modpack install tutorial website](https://yichif
 ##### Github
 
 My Github Profile: [yichifauzi](https://github.com/yichifauzi)
-
- [![](img/logo.png)](#)© 2024 Yi Chi Fauzi
-
-*   [](https://twitter.com/yichifauzi)
-*   [](https://www.instagram.com/yichi.fauzi/)
-*   [](https://www.facebook.com/people/Yi-Chi-Fauzi/pfbid0GidrSQH7L99atTAmEe2brCyEAW17KC4Ph21QX4uJ3uk8KGKWUEEdcqzEMvwh5Jqsl/)
