@@ -12,7 +12,7 @@ My name is **Yi Chi Fauzi**, and I was born in Jakarta. I have a passion for des
 
 ##### Projects
 
-Website built by me: [Minecraft modpack install tutorial website](https://yichifauzi.github.io/modpackinstalltutorial/)
+Website built by me: [DBOP Modpack Install Tutorial](https://yichifauzi.github.io/modpackinstalltutorial/)
 
 ##### Github
 
